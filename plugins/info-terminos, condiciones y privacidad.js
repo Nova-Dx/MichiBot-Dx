@@ -116,7 +116,7 @@ _- Al hacer uso de ciertos comandos que tengan como objetivo socavar la incomodi
 
 *CUENTA OFICIAL DE ASISTENCIA - INSTAGRAM*
 ~ _Solo en esta Cuenta Respondo si tiene Dudas, Preguntas o Necesita Ayuda sobre GataBot, Tambien puede Comunicarse en Caso de Temas de Colaboracion_
-*${ig}*
+*https://www.instagram.com/strangehuman*
 
 *DONAR A LA CREADORA EN ESTA CUENTA OFICIAL*
 ~ _Si te Agrada y valoras el Trabajo que he realizado, puedes ayudarme en Donar para que pueda continuar en este Proyecto_
