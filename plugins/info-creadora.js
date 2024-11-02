@@ -36,7 +36,7 @@ lugar = official[0][0] == String(contact[0]) ? 'MichiBot' : official[1][0] == St
 enlace = official[0][0] == String(contact[0]) ? 'https://www.instagram.com/strangehuman' : official[1][0] == String(contact[0]) ? 'https://www.instagram.com/strangehuman' : official[2][0] == String(contact[0]) ? 'https://www.instagram.com/strangehuman' : official[3][0] == String(contact[0]) ? 'https://www.instagram.com/strangehuman' : md 
 
 lista.push([number, ofc, nombre, description, official[3][0] == String(contact[0]) ? null : correo, lugar, enlace, bio, official[1][0] == String(contact[0]) ? 'https://www.instagram.com/ceogeripium.dzn' : null]) }  
-lista.push([conn.user.jid.split('@')[0], await conn.getName(conn.user.jid), packname, lenguajeGB.smsContacto8(), mail === '' ? 'https://www.instagram.com/ceogeripium.dzn' : mail, lenguajeGB.smsContacto7(), md, bioBot, yt, ig, fb, paypal, nna])
+lista.push([conn.user.jid.split('@')[0], await conn.getName(conn.user.jid), packname, lenguajeGB.smsContacto8(), mail === '' ? 'https://www.instagram.com/strangehuman' : mail, lenguajeGB.smsContacto7(), md, bioBot, yt, ig, fb, paypal, nna])
 await conn.sendFile(m.chat, pp, 'lp.jpg', cat, fkontak, false, { contextInfo: {externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: gt, body: ' MichiBot ', previewType: 0, thumbnail: gataImg, sourceUrl: accountsgb.getRandom()}}})
 await conn.sendContactArray(m.chat, lista, null, { quoted: fkontak })
 
