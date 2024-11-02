@@ -120,7 +120,7 @@ _- Al hacer uso de ciertos comandos que tengan como objetivo socavar la incomodi
 
 *DONAR A LA CREADORA EN ESTA CUENTA OFICIAL*
 ~ _Si te Agrada y valoras el Trabajo que he realizado, puedes ayudarme en Donar para que pueda continuar en este Proyecto_
-*https://paypal.me/OficialGD*
+*https://paypal.me/Yessibot*
 
 *~ Muchas Gracias Por tomarte el tiempo en informate sobre GataBot*` 
 await conn.sendFile(m.chat, pp, 'gata.mp4', Terminos)
