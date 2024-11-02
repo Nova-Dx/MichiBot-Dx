@@ -10,7 +10,7 @@ https://chat.whatsapp.com/Gl9gGcrkdHh61GjWBmpBZ8
 ✅ Canal
 https://chat.whatsapp.com/Gl9gGcrkdHh61GjWBmpBZ8
 ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈`
-await conn.sendButton(m.chat, str, `𝘼𝙎𝙄𝙎𝙏𝙀𝙉𝘾𝙄𝘼\n${asistencia}\n\n` + wm, media, [
+await conn.sendButton(m.chat, str, `𝘼𝙎𝙄𝙎𝙏𝙀𝙉𝘾𝙄𝘼\nhttps://Wa.me/51928035988\n\n` + wm, media, [
 ['𝘾𝙪𝙚𝙣𝙩𝙖𝙨 𝙊𝙛𝙞𝙘𝙞𝙖𝙡𝙚𝙨 | 𝘼𝙘𝙘𝙤𝙪𝙣𝙩𝙨 ✅', '.cuentasgb'],
 ['🎁 𝘿𝙤𝙣𝙖𝙧 | 𝘿𝙤𝙣𝙖𝙩𝙚', '.donar'],
 ['𝙑𝙤𝙡𝙫𝙚𝙧 𝙖𝙡 𝙈𝙚𝙣𝙪́ | 𝘽𝙖𝙘𝙠 𝙩𝙤 𝙈𝙚𝙣𝙪 ☘️', '/menu']], null, [
