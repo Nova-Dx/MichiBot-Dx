@@ -16,16 +16,16 @@
     "eslint": "eslint .",
     "eslintfix": "eslint --fix ."
   },
-  "homepage": "https://github.com/Richetti123/MichiBot6",
+  "homepage": "https://github.com/Nova-Dx/MichiBot-Dx",
   "author": {
-    "name": "BrunoSobrino"
+    "name": "Nova"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Richetti123/MichiBot6.git"
+    "url": "https://github.com/Nova-Dx/MichiBot-Dx"
   },
   "bugs": {
-    "url": "https://github.com/Richetti123/MichiBot6/issues"
+    "url": "https://github.com/Nova-Dx/MichiBot-Dx"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
@@ -101,7 +101,7 @@
   "ytdl-core": "^4.11.4"
   },
   "optionalDependencies": {
-    "@xct007/frieren-scraper": "github:BrunoSobrino/frieren-scraper",
+    "@xct007/frieren-scraper": "https://github.com/Nova-Dx/MichiBot-Dx",
     "wa-sticker-formatter": "^4.3.2"
   },
   "devDependencies": {
