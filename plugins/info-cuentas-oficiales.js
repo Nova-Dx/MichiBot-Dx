@@ -5,7 +5,7 @@ let str = `💙 𝘽𝙄𝙀𝙉𝙑𝙀𝙉𝙄𝘿𝙊(𝘼) 𝘼 𝙇𝘼𝙎
 ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 MichiBot 🐈
 ✅ *WhatsApp*
-*htto://Wa.me/51928035988*
+*https://Wa.me/51928035988*
 ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 *Si tienen dudas, sugerencias, o preguntas solo escriban al numero.*`
 await conn.sendButton(m.chat, str, wm, media, [
