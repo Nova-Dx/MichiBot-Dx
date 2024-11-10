@@ -7,7 +7,7 @@ MichiBot 🐈
 ✅ *INSTAGRAM*
 *${ig}*
 ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-*Si tienen dudas, sugerencias, o preguntas solo escriban al numero.*`
+*Si tienen dudas, sugerencias, o preguntas solo escriban por Instagram.*`
 await conn.sendButton(m.chat, str, wm, media, [
 ['𝙂𝙧𝙪𝙥𝙤𝙨 𝙊𝙛𝙞𝙘𝙞𝙖𝙡𝙚𝙨 | 𝙂𝙧𝙤𝙪𝙥𝙨 🔰', '.grupos'],
 ['𝘾𝙧𝙚𝙖𝙙𝙤𝙧𝙖 | 𝘾𝙧𝙚𝙖𝙩𝙤𝙧 💗', '#owner'],
