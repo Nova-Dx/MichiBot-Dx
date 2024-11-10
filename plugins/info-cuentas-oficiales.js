@@ -4,8 +4,8 @@ let fkontak = { "key": { "participants":"0@s.whatsapp.net", "remoteJid": "status
 let str = `💙 𝘽𝙄𝙀𝙉𝙑𝙀𝙉𝙄𝘿𝙊(𝘼) 𝘼 𝙇𝘼𝙎 𝘾𝙐𝙀𝙉𝙏𝘼𝙎 𝙊𝙁𝙄𝘾𝙄𝘼𝙇𝙀𝙎
 ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 MichiBot 🐈
-✅ *WhatsApp*
-*https://Wa.me/51928035988*
+✅ *INSTAGRAM*
+*${ig}*
 ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 *Si tienen dudas, sugerencias, o preguntas solo escriban al numero.*`
 await conn.sendButton(m.chat, str, wm, media, [
